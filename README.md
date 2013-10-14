@@ -25,6 +25,20 @@ Contents
 - Computing Ballistic Trajectories (TODO)
 - Fractals (TODO)
 
+More Resources
+==============
+
+Interested in programming and want to learn more? That's great! Here's some more
+resources to help you out.
+
+- Tutorials/Books
+  - [Learn Python the Hard Way](http://learnpythonthehardway.org/)
+  - [Dive Into Python](http://www.diveintopython.net/toc/index.html) (a bit outdated now, but still good)
+- Groups
+  - [Hackademy](http://hackademy.ca/home)
+  - [PyLadies](http://www.pyladies.com/) / [PyLadies Toronto](http://www.meetup.com/Pyladies-Toronto/)
+  - [Ladies Learning Code](http://ladieslearningcode.com/)
+
 License
 =======
 
