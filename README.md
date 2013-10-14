@@ -17,13 +17,13 @@ Viewer](http://nbviewer.ipython.org/).
 Contents
 ========
 
-- Introduction to Python
+- [A Short Introduction to Python](http://nbviewer.ipython.org/urls/raw.github.com/cgranade/ada-lovelace-day-2013/master/A%2520Short%2520Introduction%2520to%2520Python.ipynb)
 - Approximating *π*
   - [Monte Carlo Method](http://nbviewer.ipython.org/urls/raw.github.com/cgranade/ada-lovelace-day-2013/master/Approximating%2520%25CF%2580%2520-%2520Monte%2520Carlo.ipynb)
   - [Polygon Method](http://nbviewer.ipython.org/urls/github.com/cgranade/ada-lovelace-day-2013/raw/master/Approximating%2520%25CF%2580%2520-%2520Polygons.ipynb)
-  - [Series Summation](https://raw.github.com/cgranade/ada-lovelace-day-2013/master/Approximating%20%CF%80%20-%20Series%20Summation.ipynb)
+  - [Series Summation](http://nbviewer.ipython.org/urls/github.com/cgranade/ada-lovelace-day-2013/raw/master/Approximating%2520%25CF%2580%2520-%2520Series%2520Summation.ipynb)
 - Computing Ballistic Trajectories (TODO)
-- Fractals (TODO)
+- [Fractals](http://nbviewer.ipython.org/urls/github.com/cgranade/ada-lovelace-day-2013/raw/master/Fractals.ipynb)
 
 More Resources
 ==============
