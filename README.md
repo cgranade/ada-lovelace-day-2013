@@ -22,7 +22,7 @@ Contents
   - [Monte Carlo Method](http://nbviewer.ipython.org/urls/raw.github.com/cgranade/ada-lovelace-day-2013/master/Approximating%2520%25CF%2580%2520-%2520Monte%2520Carlo.ipynb)
   - [Polygon Method](http://nbviewer.ipython.org/urls/github.com/cgranade/ada-lovelace-day-2013/raw/master/Approximating%2520%25CF%2580%2520-%2520Polygons.ipynb)
   - [Series Summation](http://nbviewer.ipython.org/urls/github.com/cgranade/ada-lovelace-day-2013/raw/master/Approximating%2520%25CF%2580%2520-%2520Series%2520Summation.ipynb)
-- Computing Ballistic Trajectories (TODO)
+- [Computing Ballistic Trajectories](http://nbviewer.ipython.org/urls/github.com/cgranade/ada-lovelace-day-2013/raw/master/Trajectories.ipynb)
 - [Fractals](http://nbviewer.ipython.org/urls/github.com/cgranade/ada-lovelace-day-2013/raw/master/Fractals.ipynb)
 
 More Resources
@@ -34,6 +34,8 @@ resources to help you out.
 - Tutorials/Books
   - [Learn Python the Hard Way](http://learnpythonthehardway.org/)
   - [Dive Into Python](http://www.diveintopython.net/toc/index.html) (a bit outdated now, but still good)
+- Tools
+  - [Online Python Tutor](http://www.pythontutor.com/visualize.html) -- Visualizes the execution of Python programs.
 - Groups
   - [Hackademy](http://hackademy.ca/home)
   - [PyLadies](http://www.pyladies.com/) / [PyLadies Toronto](http://www.meetup.com/Pyladies-Toronto/)
